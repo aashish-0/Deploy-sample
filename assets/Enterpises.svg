@@ -1,0 +1,32 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+	<title>Enterpises</title>
+	<style>
+		.s0 { fill: none;stroke: #f93f44;stroke-width: 4 } 
+		.s1 { fill: #e0383c;stroke: #f93f44;stroke-width: 3 } 
+		.s2 { fill: #f93f44 } 
+	</style>
+	<g id="Enterpises">
+		<path id="Rounded Rectangle 26" class="s0" d="m20 0h24c2.2 0 4 1.8 4 4v56c0 2.2-1.8 4-4 4h-24c-2.2 0-4-1.8-4-4v-56c0-2.2 1.8-4 4-4z"/>
+		<path id="Rounded Rectangle 27" class="s0" d="m47.8 16h12.4c2.1 0 3.8 1.8 3.8 4v40c0 2.2-1.7 4-3.8 4h-12.4c-2.1 0-3.8-1.8-3.8-4v-40c0-2.2 1.7-4 3.8-4z"/>
+		<path id="Rectangle 18" class="s1" d="m24 8h6v6h-6z"/>
+		<path id="Rectangle 18 copy" class="s1" d="m34 8h6v6h-6z"/>
+		<path id="Rectangle 18 copy 2" class="s1" d="m24 17h6v6h-6z"/>
+		<path id="Rectangle 18 copy 2" class="s1" d="m34 17h6v6h-6z"/>
+		<path id="Rectangle 18 copy 3" class="s1" d="m24 26h6v6h-6z"/>
+		<path id="Rectangle 18 copy 3" class="s1" d="m34 26h6v6h-6z"/>
+		<path id="Rectangle 18 copy 4" class="s1" d="m24 35h6v6h-6z"/>
+		<path id="Rectangle 18 copy 4" class="s1" d="m34 35h6v6h-6z"/>
+		<path id="Rectangle 18 copy 5" class="s2" d="m24 44h6v6h-6z"/>
+		<path id="Rectangle 18 copy 5" class="s2" d="m34 44h6v6h-6z"/>
+		<path id="Rectangle 18 copy 6" class="s1" d="m29 54h6v6h-6z"/>
+		<path id="Rectangle 18 copy 7" class="s1" d="m51 54h6v6h-6z"/>
+		<path id="Rectangle 18 copy 8" class="s1" d="m51 41h6v6h-6z"/>
+		<path id="Rectangle 18 copy 9" class="s1" d="m51 32h6v6h-6z"/>
+		<path id="Rectangle 18 copy 10" class="s1" d="m51 23h6v6h-6z"/>
+		<path id="Rounded Rectangle 27 copy" class="s0" d="m3.8 16h12.4c2.1 0 3.8 1.8 3.8 4v40c0 2.2-1.7 4-3.8 4h-12.4c-2.1 0-3.8-1.8-3.8-4v-40c0-2.2 1.7-4 3.8-4z"/>
+		<path id="Rectangle 18 copy 11" class="s1" d="m7 54h6v6h-6z"/>
+		<path id="Rectangle 18 copy 11" class="s1" d="m7 41h6v6h-6z"/>
+		<path id="Rectangle 18 copy 11" class="s1" d="m7 32h6v6h-6z"/>
+		<path id="Rectangle 18 copy 11" class="s1" d="m7 23h6v6h-6z"/>
+	</g>
+</svg>

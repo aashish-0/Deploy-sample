@@ -1,0 +1,17 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+	<title>SMEs</title>
+	<style>
+		.s0 { fill: none;stroke: #f93f44;stroke-width: 4 } 
+		.s1 { fill: #f93f44 } 
+		.s2 { fill: #f94b50 } 
+	</style>
+	<g id="SMEs">
+		<path id="Rounded Rectangle 23" class="s0" d="m4 0h56c2.2 0 4 1.8 4 4v56c0 2.2-1.8 4-4 4h-56c-2.2 0-4-1.8-4-4v-56c0-2.2 1.8-4 4-4z"/>
+		<path id="Shape 6" class="s1" d="m4 18v-4h57v4z"/>
+		<path id="Rounded Rectangle 24" class="s0" d="m34 62v-24.5c0-1.9 2-3.5 4.5-3.5h9c2.5 0 4.5 1.6 4.5 3.5v24.5"/>
+		<path id="Rectangle 18 copy 12" class="s2" d="m19 32h6v6h-6z"/>
+		<path id="Rectangle 18 copy 13" class="s2" d="m10 32h6v6h-6z"/>
+		<path id="Rectangle 18 copy 14" class="s2" d="m10 41h6v6h-6z"/>
+		<path id="Rectangle 18 copy 15" class="s2" d="m19 41h6v6h-6z"/>
+	</g>
+</svg>

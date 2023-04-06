@@ -1,0 +1,17 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 68 60" width="68" height="60">
+	<title>B2B</title>
+	<style>
+		.s0 { fill: #ffffff;stroke: #f93f44;stroke-width: 4 } 
+		.s1 { fill: #f93f44 } 
+	</style>
+	<g id="B2B">
+		<path id="Rounded Rectangle 22 copy 3" class="s0" d="m37.1 2h14.8c0.6 0 1.1 0.4 1.1 1v10c0 0.6-0.5 1-1.1 1h-14.8c-0.6 0-1.1-0.4-1.1-1v-10c0-0.6 0.5-1 1.1-1z"/>
+		<path id="Rounded Rectangle 22 copy" class="s0" d="m25.7 9h37.6c1.5 0 2.7 1.2 2.7 2.7v26.6c0 1.5-1.2 2.7-2.7 2.7h-37.6c-1.5 0-2.7-1.2-2.7-2.7v-26.6c0-1.5 1.2-2.7 2.7-2.7z"/>
+		<path id="Shape 7 copy" class="s1" d="m25 21v-4h40v4z"/>
+		<path id="Rectangle 19 copy" class="s1" d="m42 17h6v6h-6z"/>
+		<path id="Rounded Rectangle 22 copy 2" class="s0" d="m16.1 19h14.8c0.6 0 1.1 0.4 1.1 1v10c0 0.6-0.5 1-1.1 1h-14.8c-0.6 0-1.1-0.4-1.1-1v-10c0-0.6 0.5-1 1.1-1z"/>
+		<path id="Rounded Rectangle 22" class="s0" d="m4.7 26h37.6c1.5 0 2.7 1.2 2.7 2.7v26.6c0 1.5-1.2 2.7-2.7 2.7h-37.6c-1.5 0-2.7-1.2-2.7-2.7v-26.6c0-1.5 1.2-2.7 2.7-2.7z"/>
+		<path id="Shape 7" class="s1" d="m4 38v-4h40v4z"/>
+		<path id="Rectangle 19" class="s1" d="m21 34h6v6h-6z"/>
+	</g>
+</svg>

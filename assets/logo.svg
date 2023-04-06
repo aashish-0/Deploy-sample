@@ -1,0 +1,24 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 171 70" width="171" height="70">
+	<title>Shape 5 copy 8</title>
+	<defs>
+		<linearGradient id="g1" x1="0" y1="56" x2="51" y2="10" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#f74d37"/>
+			<stop offset="1" stop-color="#fd0d6d"/>
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: url(#g1) } 
+		.t1 { font-size: 20px;fill: #000414;font-weight: 500;font-family: "Montserrat-Medium", "Montserrat" } 
+		.t2 { font-size: 8px;text-transform: uppercase;fill: #f93f44;font-weight: 500;font-family: "Montserrat-Medium", "Montserrat" } 
+	</style>
+	<path id="Shape 5 copy 8" class="s0" d="m47 4l1.3 2.5 2.7 0.6-1.9 2.1 0.4 2.8-2.5-1.2-2.5 1.2 0.4-2.8-1.9-2.1 2.7-0.6 1.3-2.5m-14-4l1.3 2.5 2.7 0.6-1.9 2.1 0.4 2.8-2.5-1.2-2.5 1.2 0.4-2.8-1.9-2.1 2.7-0.6 1.3-2.5m-15 4l1.3 2.5 2.7 0.6-1.9 2.1 0.4 2.8-2.5-1.2-2.5 1.2 0.4-2.8-1.9-2.1 2.7-0.6 1.3-2.5m-10 11l1.3 2.5 2.7 0.6-1.9 2.1 0.4 2.8-2.5-1.2-2.5 1.2 0.4-2.8-1.9-2.1 2.7-0.6 1.3-2.5m-4 14l1.3 2.5 2.7 0.6-1.9 2.1 0.4 2.8-2.5-1.2-2.5 1.2 0.4-2.8-1.9-2.1 2.7-0.6 1.3-2.5m4 14l1.3 2.5 2.7 0.6-1.9 2.1 0.4 2.8-2.5-1.2-2.5 1.2 0.4-2.8-1.9-2.1 2.7-0.6 1.3-2.5m10 11l1.3 2.5 2.7 0.6-1.9 2.1 0.4 2.8-2.5-1.2-2.5 1.2 0.4-2.8-1.9-2.1 2.7-0.6 1.3-2.5m15 4l1.3 2.5 2.7 0.6-1.9 2.1 0.4 2.8-2.5-1.2-2.5 1.2 0.4-2.8-1.9-2.1 2.7-0.6 1.3-2.5m14-4l1.3 2.5 2.7 0.6-1.9 2.1 0.4 2.8-2.5-1.2-2.5 1.2 0.4-2.8-1.9-2.1 2.7-0.6 1.3-2.5"/>
+	<text id="GDPR" style="transform: matrix(2.295,0,0,2.313,38.14,50.114)" >
+		<tspan x="0" y="0" class="t1">G</tspan><tspan  y="0" class="t1">DPR
+</tspan>
+	</text>
+	<text id="Techies" style="transform: matrix(2.295,0,0,2.313,90.99,70)" >
+		<tspan x="0" y="0" class="t2" dx="0" >T</tspan><tspan  y="0" class="t2" dx="0 0 0 0 0 0 0" >ECHIES
+</tspan>
+	</text>
+</svg>
